@@ -1,5 +1,5 @@
 ## @crookd
-I enjoy learning new technologies, concepts, strategies and whatever else I can wrap my head around. Currently using Go 🦫 and Rust 🦀 as my main languages although i'm quite new to Rust. My profile is mostly full of projects that were created in the spirit of exploratory learning.
+I enjoy learning new technologies, concepts, strategies and whatever else I can wrap my head around. Currently using Go 🦫 and Rust 🦀 as my main languages, although i'm quite new to Rust so don't expect greatness in that department. My profile is mostly full of projects that were created in the spirit of exploratory learning.
 
 <!--
 **crookdc/crookdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
