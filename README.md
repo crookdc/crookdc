@@ -1,7 +1,7 @@
 ## @crookd
 > The day you plant the seed is not the the day you eat the fruit.
 
-Proponent of the open web. Using Rust and Go to build toy projects and more.
+Proponent of the open web. 
 
 <!--
 **crookdc/crookdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
